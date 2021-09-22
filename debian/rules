@@ -1,0 +1,9 @@
+#!/usr/bin/make -f
+
+export QT_SELECT=5
+
+%:
+	dh $@ --with dkms,systemd
+
+override_dh_installinit:
+	true

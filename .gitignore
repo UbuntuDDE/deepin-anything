@@ -1,0 +1,83 @@
+
+# Executables
+*.exe
+*.out
+*.app
+Makefile
+Makefile.*
+*.Debug
+*.Release
+*.rc
+*.zip
+deepin-anything-server
+
+debug
+release
+build*
+
+vendor/include/*
+vendor/lib/*
+
+NUL
+
+# Documents
+doc/html/*
+
+#vscode
+.vscode/*
+
+
+# C++ objects and libs
+*.obj
+*.slo
+*.lo
+*.o
+*.o.cmd
+*.ko
+*.ko.cmd
+*.mod
+*.a
+*.la
+*.lai
+*.so*
+*.dll
+*.dylib
+*.symvers
+*.order
+*.mod.c
+
+# Qt-es
+
+/.qmake.cache
+/.qmake.stash
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.moc
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+Makefile*
+*build-*
+
+# QtCreator
+*.autosave
+
+# QtCtreator Qml
+*.qmlproject.user
+*.qmlproject.user.*
+
+#QtCreator QMake
+*.pro.user
+*.pro.user*
+*.qm
+*.autosave
+*.prl
+*.pc
+
+# QtCtreator CMake
+CMakeLists.txt.user*
+
+debian/deepin-anything-dkms.dkms
