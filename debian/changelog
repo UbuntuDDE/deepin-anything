@@ -1,5 +1,5 @@
-deepin-anything (20180315+1) unstable; urgency=medium
+deepin-anything (5.0.9-1) impish; urgency=medium
 
-  * Initial release.
+  * New upstream release to impish.
 
- -- Deepin Package Builder <packages@deepin.com>  Tue, 20 Mar 2018 11:46:47 +0800
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Wed, 22 Sep 2021 13:25:25 +0545
